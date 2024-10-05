@@ -76,6 +76,8 @@ To explore the solutions:
 
 3. Open the Python files to review the solutions.
 
+4. Though, I'd recommend not to copy these solutions and try the psets yourself as if solving on your own is the best way of learning...
+
 ---
 
 ## **Acknowledgments**
